@@ -5,7 +5,7 @@ This project involves setting up the necessary infrastructure and tools for the 
 
 * [Development of a Basic webpage]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\initiative_basic_webpage.md")
 * [Setup of devops implementation]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\initiative_devops_plan.md")
-* [Set up GDPR compliance]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\initiative_GDPR_comply.md")
+* [Set up GDPR compliance plan]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\initiative_GDPR_comply.md")
 
 * Development of a Basic Webpage
 - Set up a development environment with the necessary tools for front-end and back-end development.
