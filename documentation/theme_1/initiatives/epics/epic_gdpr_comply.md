@@ -41,6 +41,31 @@ Review Privacy Notices: Review and update privacy notices to ensure that they ar
 
 Data Protection Impact Assessments: Conduct Data Protection Impact Assessments (DPIA) for new projects, processes, or technologies that involve the processing of personal data. DPIAs assess the impact on the privacy of individuals and identify any measures that can be taken to reduce risks.
 
+Timeline to implement documentation
+Week 1:
+Task 1: Conduct a GDPR gap analysis - Data Protection Officer (DPO)
+Task 2: Develop a GDPR compliance plan based on the gap analysis - DPO
+
+Week 2:
+Task 3: Develop and implement data protection policies and procedures - DPO and Legal team
+Task 4: Implement a data subject access request (DSAR) process - DPO and IT team
+
+Week 3:
+Task 5: Provide GDPR training to all employees - HR and DPO
+Task 6: Review and update data processing agreements with vendors - Legal team and DPO
+
+Week 4:
+Task 7: Implement technical and organizational measures to protect personal data - IT team and DPO
+Task 8: Develop and implement a breach response plan - DPO and IT team
+
+Week 5:
+Task 9: Conduct a review and update of GDPR compliance - DPO and Legal team
+Task 10: Test and evaluate GDPR compliance through an internal audit - DPO and IT team
+
+Week 6:
+Task 11: Finalize any outstanding GDPR compliance actions - DPO, Legal team, and IT team
+Task 12: Submit a report on GDPR compliance to management and stakeholders - DPO and Legal team
+
 Goals: 
     Ensure that all customer data is collected and processed in compliance with GDPR regulations.
     Provide transparency to customers on how their personal data is collected and processed.
@@ -71,4 +96,7 @@ Priority:
     High priority, as compliance with GDPR regulations is essential for protecting customer privacy and data, and avoiding legal and reputational risks.
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story Customer 1]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_customer1.md")
+2. [Story Customer 2]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_customer2.md")
+3. [Story employee]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_employee.md")
+4. [Story it admin]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_ITadmin.md")
